@@ -38,7 +38,7 @@ Pode ajudar a evitar que o cientista de dados pare em uma etapa específica e pe
 * Avaliação do melhor modelo. 
 * Equilíbrio das Classes do Target
 * Reavaliando o melhor modelo.
-* Deploy do modelo (Construção).
+* Deploy do modelo.
  
 # Aquisição dos dados.
  
