@@ -74,8 +74,9 @@ Essa parte do projeto está encarregada de tratar os dados, avaliá-los e criar 
 * https://www.youtube.com/watch?v=sKTyE8mqQSw&list=PLZlkyCIi8bMpKoAicmYKrmAzZlkDFQVHY&index=1
 * https://www.flai.com.br/juscudilio/como-calcular-as-metricas-de-validacao-dos-modelos-de-machine-learning-em-python/
 * https://operdata.com.br/blog/desvio-padrao-e-erro-padrao/
-* 
-
+* https://github.com/juniorcl/churn-prediction/blob/main/notebooks/cycle1-churn-prediction.ipynb
+* https://coderzcolumn.com/tutorials/machine-learning/scikit-optimize-guide-to-hyperparameters-optimization
+* https://scikit-optimize.github.io/stable/modules/generated/skopt.gp_minimize.html
 
  
  
