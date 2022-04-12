@@ -44,19 +44,30 @@ Pode ajudar a evitar que o cientista de dados pare em uma etapa específica e pe
  
 * Os dados foram disponibilizados pela Flai para que os seus possam participar da sua competição de machine learning.
  
-# Descrição das partes do projeto
- 
-Essa primeira parte do projeto está encarregada de tratar os dados, avaliá-los e criar o modelo de machine learning. Esse estudo foi dividido nas seguintes partes:
+# Descrição de cada módulo do projeto
+
+### Primeiro módulo
+Essa parte do projeto está encarregada de tratar os dados, avaliá-los e criar o modelo de machine learning. Esse estudo foi dividido nas seguintes partes:
 * Parte 1: Conhecer as características de cada variável e realizar o tratamento dos dados.
 * Parte 2: Seleção de variáveis para treinar o modelo e criar outras novas. E como a variação do limiar do modelo afeta no seu desempenho
 * Parte 3: Modelagem do modelo de machine learning, interpretação dos seus resultados.
 * Parte 4: Balanceamento das classes da variável de Target e como o modelo está performado depois disso.
  
 **Todas essas partes se encontram na pasta chamada Notebooks**
-  
+
+### Segundo módulo
+ Essa parte do projeto é o deploy do modelo. Onde ela foi desenvolvida através das seguintes algoritmos:
  
-**A segunda parte do projeto é o deploy do modelo, só que ela está em construção.**
+ * Model: Encarregado de salvar o modelo em disco e alguns tratamentos feitos nos dados.
+ * Model_api: API desenvolvido com o Flask. 
+ * Churn: Classe criada para processar os dados de entrada do API. 
+ * Teste API: Notebook criado para testar o API. 
+
+**O Model, Model_api se encontram na pasta API, Churn esta na pasta churn e o Teste API se encontra na pasta Notebooks** 
+
+
  
+
  
  
  
