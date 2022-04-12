@@ -65,8 +65,17 @@ Essa parte do projeto está encarregada de tratar os dados, avaliá-los e criar 
 
 **O Model, Model_api se encontram na pasta API, Churn esta na pasta churn e o Teste API se encontra na pasta Notebooks** 
 
+# Refêrencias:
+* https://www.youtube.com/watch?v=fG8H-0rb0mY&list=PLwnip85KhroUBuVfAEUz4jE5ejQ5vXf6N&index=3
+* https://www.youtube.com/watch?v=vp7sAKlf7FU&list=PLwnip85KhroUBuVfAEUz4jE5ejQ5vXf6N&index=4
+* https://www.youtube.com/watch?v=d6caxBhnf2I&list=PLZlkyCIi8bMpKoAicmYKrmAzZlkDFQVHY&index=4
+* https://www.youtube.com/watch?v=sXHjYjV-36I&list=PLZlkyCIi8bMpKoAicmYKrmAzZlkDFQVHY&index=3
+* https://www.youtube.com/watch?v=-s2B3Hsi1eM&list=PLZlkyCIi8bMpKoAicmYKrmAzZlkDFQVHY&index=2
+* https://www.youtube.com/watch?v=sKTyE8mqQSw&list=PLZlkyCIi8bMpKoAicmYKrmAzZlkDFQVHY&index=1
+* https://www.flai.com.br/juscudilio/como-calcular-as-metricas-de-validacao-dos-modelos-de-machine-learning-em-python/
+* https://operdata.com.br/blog/desvio-padrao-e-erro-padrao/
+* 
 
- 
 
  
  
